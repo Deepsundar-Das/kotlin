@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compiledCodes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/compiledCodes/HelloWorld.jar!/" />
+      <root url="jar://$PROJECT_DIR$/compiledCodes/Null.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
